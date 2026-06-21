@@ -86,4 +86,3 @@ typings/
 .dynamodb/
 
 # каталог dist
-/dist/

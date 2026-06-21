@@ -1,0 +1,1 @@
+(()=>{var t={95(t){t.exports=function(){"use strict";var t={};return t.default={info:function(){const t=new Map;return t.set("name","ajs"),t.set("version","1.0.0"),t}},t.default}()}},r={};const e=function e(n){var o=r[n];if(void 0!==o)return o.exports;var s=r[n]={exports:{}};return t[n].call(s.exports,s,s.exports,e),s.exports}(95);console.log(e.info())})();
